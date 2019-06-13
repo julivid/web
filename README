@@ -1,7 +1,1 @@
-This a web site demo, create by Julivid.
-
-
-something changed...
-
-
-another changed...
+基于CI框架开发的管理系统，包括：(后台)用户管理、权限验证，图片上传，会员卡生成、消费统计，PokerGame[德州扑克]游戏管理（分桌、计时、晋级），发牌员管理等功能。
